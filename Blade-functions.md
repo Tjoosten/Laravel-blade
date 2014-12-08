@@ -1,3 +1,8 @@
+[Blade] Functions
+====================
+
+The functions for blade templating engine.
+
 | Blade code                              | Description                                                                        |
 | --------------------------------------  | ---------------------------------------------------------------------------------- |
 | `{{ $var }}`                            | Echo content.                                                                      |
